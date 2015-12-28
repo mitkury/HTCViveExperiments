@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 5d2da96aeab2e4546b6d1e16a8cf2635
+timeCreated: 1438221542
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cabinet Floor Unit Door.L
+    100002: Cabinet Floor Unit Door.R
+    100004: //RootNode
+    100006: Counter Segment Sink
+    100008: Faucet.L
+    100010: Faucet.R
+    100012: Sink
+    100014: Cabinet Floor Unit Door.L.003
+    100016: Cabinet Floor Unit Door.R.003
+    400000: Cabinet Floor Unit Door.L
+    400002: Cabinet Floor Unit Door.R
+    400004: //RootNode
+    400006: Counter Segment Sink
+    400008: Faucet.L
+    400010: Faucet.R
+    400012: Sink
+    400014: Cabinet Floor Unit Door.L.003
+    400016: Cabinet Floor Unit Door.R.003
+    2300000: Cabinet Floor Unit Door.L
+    2300002: Cabinet Floor Unit Door.R
+    2300004: //RootNode
+    2300006: Counter Segment Sink
+    2300008: Faucet.L
+    2300010: Faucet.R
+    2300012: Sink
+    2300014: Cabinet Floor Unit Door.L.003
+    2300016: Cabinet Floor Unit Door.R.003
+    3300000: Cabinet Floor Unit Door.L
+    3300002: Cabinet Floor Unit Door.R
+    3300004: //RootNode
+    3300006: Counter Segment Sink
+    3300008: Faucet.L
+    3300010: Faucet.R
+    3300012: Sink
+    3300014: Cabinet Floor Unit Door.L.003
+    3300016: Cabinet Floor Unit Door.R.003
+    4300000: Cabinet Sink Unit
+    4300002: Sink
+    4300004: Faucet.L
+    4300006: Faucet.R
+    4300008: Cabinet Floor Unit Door.R
+    4300010: Cabinet Floor Unit Door.L
+    4300012: Counter Segment Sink
+    4300014: Cabinet Floor Unit Door.R.003
+    4300016: Cabinet Floor Unit Door.L.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

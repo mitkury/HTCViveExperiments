@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: fd78ddb65a09e44b68c2b992d32ead5a
+timeCreated: 1438493724
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kitchen Base Board
+    100004: Window Frame
+    100006: Window Glass
+    100008: Window Shelf
+    100010: Door 2
+    100012: Door 3
+    100014: 'French Doors Frame '
+    100016: Door 3.001
+    100018: Door Divider
+    100020: Kitchen Ceiling Board
+    400000: //RootNode
+    400002: Kitchen Base Board
+    400004: Window Frame
+    400006: Window Glass
+    400008: Window Shelf
+    400010: Door 2
+    400012: Door 3
+    400014: 'French Doors Frame '
+    400016: Door 3.001
+    400018: Door Divider
+    400020: Kitchen Ceiling Board
+    2300000: //RootNode
+    2300002: Kitchen Base Board
+    2300004: Window Frame
+    2300006: Window Glass
+    2300008: Window Shelf
+    2300010: Door 2
+    2300012: Door 3
+    2300014: 'French Doors Frame '
+    2300016: Door 3.001
+    2300018: Door Divider
+    2300020: Kitchen Ceiling Board
+    3300000: //RootNode
+    3300002: Kitchen Base Board
+    3300004: Window Frame
+    3300006: Window Glass
+    3300008: Window Shelf
+    3300010: Door 2
+    3300012: Door 3
+    3300014: 'French Doors Frame '
+    3300016: Door 3.001
+    3300018: Door Divider
+    3300020: Kitchen Ceiling Board
+    4300000: Kitchen Walls.001
+    4300002: Kitchen Walls
+    4300004: Kitchen Base Board
+    4300006: Window Frame
+    4300008: Window Shelf
+    4300010: Window Glass
+    4300012: 'French Doors Frame '
+    4300014: Door 3
+    4300016: Door 2
+    4300018: Door 3.001
+    4300020: Door Divider
+    4300022: Kitchen Ceiling Board
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
